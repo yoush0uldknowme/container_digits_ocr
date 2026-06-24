@@ -1,0 +1,2 @@
+time,epoch,train_loss,val_loss,val_digit_acc,val_sequence_acc,best_sequence_acc,lr,epoch_seconds,elapsed,eta
+2026-05-28 20:50:13,1,0.537740,0.023864,0.992683,0.964200,0.964200,0.00100000,378.66,06m 18s,6h 12m 20s

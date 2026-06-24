@@ -1,0 +1,24 @@
+{
+  "threshold": 0.991033,
+  "target_validation_accuracy": 0.9999,
+  "weights": [
+    0.3,
+    0.7
+  ],
+  "validation": {
+    "threshold": 0.991033,
+    "coverage": 0.995,
+    "accepted_accuracy": 1.0,
+    "accepted_count": 9950,
+    "review_count": 50,
+    "accepted_errors": 0
+  },
+  "test": {
+    "threshold": 0.991033,
+    "coverage": 0.996,
+    "accepted_accuracy": 0.9998995983935743,
+    "accepted_count": 9960,
+    "review_count": 40,
+    "accepted_errors": 1
+  }
+}

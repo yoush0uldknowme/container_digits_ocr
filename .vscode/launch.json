@@ -1,0 +1,117 @@
+﻿{
+    "version":  "0.2.0",
+    "configurations":  [
+                           {
+                               "name":  "Train fixed6",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_train_vscode.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           },
+                           {
+                               "name":  "Evaluate fixed6",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_evaluate_vscode.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           },
+                           {
+                               "name":  "Predict one image",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_predict_vscode.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           },
+                           {
+                               "name":  "Train v2 BiLSTM",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_train_v2.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           },
+                           {
+                               "name":  "Evaluate v2 BiLSTM",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_evaluate_v2.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           },
+                           {
+                               "name":  "Predict v2 one image",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_predict_v2.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           },
+                           {
+                               "name":  "Train v3 Attention",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_train_v3.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           },
+                           {
+                               "name":  "Evaluate v3 Attention",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_evaluate_v3.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           },
+                           {
+                               "name":  "Predict v3 one image",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_predict_v3.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           },
+                           {
+                               "name":  "Train V2 seed2",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_train_v2_seed2.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           },
+                           {
+                               "name":  "Train V2 seed3",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_train_v2_seed3.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           },
+                           {
+                               "name":  "Evaluate V2 three-seed ensemble",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_evaluate_v2_three_seed.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           },
+                           {
+                               "name":  "Calibrate reliable threshold",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_calibrate_rejection.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           },
+                           {
+                               "name":  "Predict reliable with review",
+                               "type":  "debugpy",
+                               "request":  "launch",
+                               "program":  "${workspaceFolder}/run_predict_reliable.py",
+                               "console":  "integratedTerminal",
+                               "cwd":  "${workspaceFolder}"
+                           }
+                       ]
+}

@@ -1,0 +1,7 @@
+Validation-selected weights: (0.0, 0.3, 0.7)
+Seed1 sequence accuracy: 0.999000
+Seed2 sequence accuracy: 0.998900
+Seed3 sequence accuracy: 0.998700
+Ensemble digit accuracy: 0.999850
+Ensemble sequence accuracy: 0.999200
+Ensemble correct sequences: 9992/10000

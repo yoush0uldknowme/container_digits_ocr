@@ -1,0 +1,10 @@
+{
+  "data_root": "dataset_container_digits",
+  "epochs": 2,
+  "batch_size": 128,
+  "lr": 0.001,
+  "device": "cuda",
+  "train_samples": 1000,
+  "val_samples": 200,
+  "seed": 20260527
+}

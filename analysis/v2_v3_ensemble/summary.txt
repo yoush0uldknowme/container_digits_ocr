@@ -1,0 +1,6 @@
+V2 weight: 0.90
+V3 weight: 0.10
+V2 test sequence accuracy: 0.999000
+V3 test sequence accuracy: 0.997600
+Ensemble test sequence accuracy: 0.999000
+Ensemble correct sequences: 9990/10000

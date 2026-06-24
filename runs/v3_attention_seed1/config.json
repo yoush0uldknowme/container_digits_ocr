@@ -1,0 +1,13 @@
+{
+  "model": "v3_attention_crnn",
+  "data_root": "E:\\Software\\PyTorch\\container_digits_ocr\\dataset_container_digits",
+  "run_dir": "E:\\Software\\PyTorch\\container_digits_ocr\\runs\\v3_attention_seed1",
+  "epochs": 80,
+  "batch_size": 96,
+  "lr": 0.0007,
+  "device": "cuda",
+  "train_samples": 80000,
+  "val_samples": 10000,
+  "seed": 20260611,
+  "started_at": "2026-06-11 02:41:01"
+}

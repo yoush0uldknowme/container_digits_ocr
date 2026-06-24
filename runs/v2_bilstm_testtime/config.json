@@ -1,0 +1,12 @@
+{
+  "data_root": "E:\\Software\\PyTorch\\container_digits_ocr\\dataset_container_digits",
+  "run_dir": "E:\\Software\\PyTorch\\container_digits_ocr\\runs\\v2_bilstm_testtime",
+  "epochs": 60,
+  "batch_size": 128,
+  "lr": 0.001,
+  "device": "cuda",
+  "train_samples": 80000,
+  "val_samples": 10000,
+  "seed": 20260527,
+  "started_at": "2026-05-28 20:43:54"
+}
